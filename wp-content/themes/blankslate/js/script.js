@@ -5,9 +5,7 @@ jQuery.fn.exists = function( callback ) {
 		callback.call( this, args );
 	}
 	return this;
-
 };
-
 ( function($) {
 
 	var khmerScript = {
