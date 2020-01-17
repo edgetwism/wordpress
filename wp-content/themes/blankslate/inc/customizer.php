@@ -1,13 +1,11 @@
 <?php
 /**
  * minimalistblogger Theme Customizer
- *
  * @package minimalistblogger
  */
 
 /**
  * Add postMessage support for site title and description for the Theme Customizer.
- *
  * @param WP_Customize_Manager $wp_customize Theme Customizer object.
  */
 function minimalistblogger_customize_register( $wp_customize ) {

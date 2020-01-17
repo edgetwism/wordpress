@@ -3,8 +3,6 @@
  * Custom template tags for this theme
  *
  * Eventually, some of the functionality here could be replaced by core features.
- *
- * @package minimalistblogger
  */
 
 /**
@@ -17,9 +15,9 @@
 |
 | 1. Thumbnail related posts (default)
 | 2. List of related posts
-| 
-| @return void
 |
+| @return void
+
 */
 
 if ( ! function_exists('minimalistblogger_related_posts') ) :

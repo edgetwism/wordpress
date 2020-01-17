@@ -5,9 +5,6 @@
  * You can add an optional custom header image to header.php like so ...
  *
  *
- * @link https://developer.wordpress.org/themes/functionality/custom-headers/
- *
- * @package minimalistblogger
  */
 
 /**

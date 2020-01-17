@@ -39,11 +39,6 @@
 
 <div class="site-info">
 	<?php echo esc_html('&copy;', 'minimalistblogger') ?> <?php echo esc_html(date('Y')); ?> <?php bloginfo( 'name' ); ?>
-	<!-- Delete below lines to remove copyright from footer -->
-	<span class="footer-info-right">
-		<?php echo esc_html_e(' | Powered by', 'minimalistblogger') ?> <a href="<?php echo esc_url('https://superbthemes.com/minimalistblogger/'); ?>" rel="nofollow"><?php echo esc_html_e('Minimalist Blog', 'minimalistblogger') ?></a> <?php echo esc_html_e('WordPress Theme', 'minimalistblogger') ?>
-	</span>
-	<!-- Delete above lines to remove copyright from footer -->
 
 </div><!-- .site-info -->
 </div>
