@@ -1,14 +1,35 @@
-<?php get_header(); ?>
-<main id="content">
-<article id="post-0" class="post not-found">
-<header class="header">
-<h1 class="entry-title"><?php esc_html_e( 'Not Found', 'blankslate' ); ?></h1>
-</header>
-<div class="entry-content">
-<p><?php esc_html_e( 'Nothing found for the requested page. Try a search instead?', 'blankslate' ); ?></p>
-<?php get_search_form(); ?>
-</div>
-</article>
-</main>
-<?php get_sidebar(); ?>
-<?php get_footer(); ?>
+<?php
+/**
+ * The template for displaying 404 pages (not found)
+ *
+ * @link https://codex.wordpress.org/Creating_an_Error_404_Page
+ *
+ * @package minimalistblogger
+ */
+
+get_header(); ?>
+
+	<div id="primary" class="featured-content content-area">
+		<main id="main" class="fbox site-main">
+
+			<section class="error-404 not-found">
+				<header class="page-header">
+					<h1 class="page-title"><?php esc_html_e( 'Oops! That page can&rsquo;t be found.', 'minimalistblogger' ); ?></h1>
+				</header><!-- .page-header -->
+
+				<div class="page-content">
+					<p><?php esc_html_e( 'It looks like nothing was found at this location. Maybe try one of the links below or a search?', 'minimalistblogger' ); ?></p>
+
+					<?php
+						get_search_form();
+					?>
+
+				</div><!-- .page-content -->
+			</section><!-- .error-404 -->
+
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+<?php
+get_sidebar();
+get_footer();
