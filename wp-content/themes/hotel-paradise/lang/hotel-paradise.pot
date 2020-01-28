@@ -1,0 +1,753 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: hotel-paradise\n"
+"POT-Creation-Date: 2018-12-04 17:32+0530\n"
+"PO-Revision-Date: 2018-12-04 17:33+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: C:\\xampp\\htdocs\\hotel-paradise\\wp-content\\themes"
+"\\hotel-paradise\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\hotel-paradise\\wp-content\\themes"
+"\\hotel-paradise\n"
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions.php:48
+msgid "Primary Menu"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions.php:197
+msgid "Page"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/search.php:33
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/default_data.php:8
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/default_data.php:77
+msgid "2100 Fairmont Circle 32837"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/default_data.php:10
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/default_data.php:78
+msgid "(657-328-6000)"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/default_data.php:28
+msgid "Copyright 2019, WordPress Theme by Redfoxthemes"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/default_data.php:40
+msgid "Indoor & Outdoor Luxury"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/default_data.php:42
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod."
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/default_data.php:44
+msgid "View Our Rooms"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/default_data.php:50
+msgid "Room <span>Features</span>"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/default_data.php:51
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/default_data.php:59
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/default_data.php:67
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod "
+"tempor."
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/default_data.php:58
+msgid "Book a Quality <span>Room</span>"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/default_data.php:66
+msgid "Blog <span> Latest Events</span>"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/default_data.php:79
+msgid "info@example.com"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/default_data.php:104
+msgid "Our History"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/template-tags.php:192
+msgid ", "
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/template-tags.php:358
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/about-screen/welcome-screen.php:31
+#, php-format
+msgid ""
+"Welcome! Thank you for choosing %1$s! To fully take advantage of the best "
+"our theme can offer please make sure you visit our <a href=\"%2$s\">Welcome "
+"page</a>"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/about-screen/welcome-screen.php:254
+msgid ""
+"In order to have the one page look for your website, please go to Customize -"
+"&gt; Static Front Page and switch \"Front page displays\" to \"A static page"
+"\"."
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/about-screen/welcome-screen.php:298
+#, php-format
+msgid "Keep %s updated"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/about-screen/welcome-screen.php:315
+msgid "Import Data"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/about-screen/welcome-screen.php:315
+#, php-format
+msgid ""
+"<p>Congratulations! you installed importer plugin successfully. Click Here "
+"to start <a href=\"%s\">"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-panels.php:5
+msgid "General Option"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-panels.php:7
+msgid "Hotel Paradise : Section Hero"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-panels.php:9
+msgid "Hotel Paradise : Section Service"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-panels.php:11
+msgid "Hotel Paradise : Section Room"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-panels.php:13
+msgid "Hotel Paradise : Section Contact"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-panels.php:15
+msgid "Hotel Paradise : Section Blog"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-panels.php:17
+msgid "Typography"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-sections.php:6
+msgid "Global"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-sections.php:7
+msgid "Top Bar"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-sections.php:8
+msgid "Layout"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-sections.php:9
+msgid "Navigation"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-sections.php:10
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/customizer-controls.php:8
+msgid "Primary Color"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-sections.php:11
+msgid "Single Post"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-sections.php:12
+msgid "Page Title"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-sections.php:13
+msgid "Footer Copyright"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-sections.php:16
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-sections.php:21
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-sections.php:27
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-sections.php:33
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-sections.php:38
+msgid "Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-sections.php:17
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:265
+msgid "Background Images"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-sections.php:18
+msgid "Hero Contents"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-sections.php:22
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-sections.php:28
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-sections.php:39
+msgid "Section Header"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-sections.php:23
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-sections.php:29
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-sections.php:40
+msgid "Section Contents"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-sections.php:24
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-sections.php:30
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-sections.php:35
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-sections.php:41
+msgid "Section Background"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-sections.php:34
+msgid "Contact Informations"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-sections.php:44
+msgid "General Content"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-sections.php:45
+msgid "Menu"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-sections.php:46
+msgid "Heading"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:8
+msgid "Sidebar Layout"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:9
+msgid ""
+"Sidebar Layout, apply this setting for all post and pages, exclude home page "
+"and custom page templates."
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:12
+msgid "Left Sidebar"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:13
+msgid "Right Sidebar"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:14
+msgid "No Sidebar"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:20
+msgid "Hide footer back to top?"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:21
+msgid "Check this setting to hide footer back to top button."
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:27
+msgid "Disable animation effect?"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:28
+msgid "Check this setting to disable all animation effect when scroll."
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:34
+msgid "Disable google fonts?"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:35
+msgid "Check this setting to disable google fonts in the theme."
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:43
+msgid "Top Bar Disable?"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:44
+msgid "Check this setting to hide top header bar."
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:49
+msgid "Icon 1"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:50
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:62
+msgid "Please enter your icon in the setting."
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:55
+msgid "Icon 1 Text"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:56
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:68
+msgid "Please enter your icon text in the setting."
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:61
+msgid "Icon 2"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:67
+msgid "Icon 2 Text"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:74
+msgid "Facebook URL"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:75
+msgid "Please enter your facebook URL."
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:81
+msgid "Twitter URL"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:82
+msgid "Please enter your twitter URL."
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:88
+msgid "LinkedIn URL"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:89
+msgid "Please enter your linkedin URL."
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:95
+msgid "Google Plus URL"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:96
+msgid "Please enter your google plus URL."
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:102
+msgid "Skype URL"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:103
+msgid "Please enter your skype URL."
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:111
+msgid "Boxed Layout"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:112
+msgid "Check this setting to show your website in Boxed layout."
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:119
+msgid "Navigation Menu Padding (px)"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:120
+msgid "Enter padding value for left and right side."
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:127
+msgid "Primary Color:"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:128
+msgid "Choose your primary color for your website."
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:141
+msgid "Disable Single Post Meta"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:142
+msgid "Check this setting to disable single post meta data."
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:148
+msgid "Disable Single Post Thumbnail"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:149
+msgid "Check this setting to disable single post thumbnail data."
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:157
+msgid "Sub Header Disable?"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:158
+msgid "Check this setting to disable sub header from single detail page."
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:163
+msgid "Padding Top (px)"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:164
+msgid "Enter top padding value in pixels."
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:169
+msgid "Padding Bottom (px)"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:170
+msgid "Enter bottom padding value in pixels."
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:175
+msgid "Color"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:176
+msgid "Select color for your title"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:182
+msgid "Text Align"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:183
+msgid "Select your title alignment."
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:186
+msgid "Left"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:187
+msgid "Center"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:188
+msgid "Right"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:194
+msgid "Sub Header Overlay Color"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:195
+msgid "Choose overlay color."
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:203
+msgid "Copyright"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:204
+msgid "If you want to show copyright text in bottom of footer area."
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:214
+msgid "Hero Section Disable?"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:215
+msgid "Check this to hide hero section from Front Page Template."
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:221
+msgid "Animation Type"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:222
+msgid "Select animation type."
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:233
+msgid "Speed"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:234
+msgid "Select slider speed."
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:266
+msgid "Upload here your home page slider photos."
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:285
+msgid "Large Text"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:286
+msgid "Enter your big text for the hero section."
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:291
+msgid "Large Text Effect"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:292
+msgid "Select effect for large text."
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:298
+msgid "Small Text"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:299
+msgid "Enter your small text for the hero section."
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:304
+msgid "Small Text Effect"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:305
+msgid "Select effect for small text."
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:311
+msgid "Button Text"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:312
+msgid "Enter hero button text."
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:317
+msgid "Button URL Link"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:318
+msgid "Enter hero button url link."
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:323
+msgid "Button Text Effect"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:324
+msgid "Select effect for button text."
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:337
+msgid "Contact Section Disable?"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:338
+msgid "Check this to hide contact section from Front Page Template."
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:347
+msgid "Address:"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:348
+msgid "Please enter your address here."
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:353
+msgid "Phone:"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:354
+msgid "Please enter your phone number."
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:359
+msgid "Email:"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:360
+msgid "Please enter your email address here."
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:371
+msgid "Blog Section Disable?"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:372
+msgid "Check this to hide blog section from Front Page Template."
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:380
+msgid "Title"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:381
+msgid "Please enter title for this section."
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:387
+msgid "Subtitle"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:388
+msgid "Please enter subtitle for this section."
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:395
+msgid "No. of blog to show"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:396
+msgid "Enter value to show no. of blogs on front page."
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:401
+msgid "Order By"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:402
+msgid "Select this setting to show blogs with order by."
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:417
+msgid "Order"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:418
+msgid "Select this setting to show blogs with ASC/DESC."
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:427
+msgid "Select Category"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:428
+msgid "Select category to show this category of posts."
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:435
+msgid "Background Color"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:436
+msgid "Select section background color."
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:441
+msgid "Background Image"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:442
+msgid "Upload image for the section."
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:452
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:462
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:472
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:480
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:488
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:496
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:504
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:512
+msgid "Font Size (px)"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:453
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:463
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:473
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:481
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:489
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:497
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:505
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/custo-settings.php:513
+msgid "Select font size."
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/customizer-controls.php:329
+msgid "Add an item"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/customizer/customizer-controls.php:571
+msgid "All"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/filters/filters.php:16
+msgid "Continue reading"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/install/class-install-helper.php:51
+msgid "Install and activate"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/install/class-install-helper.php:71
+msgid "Activate"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/widget/sidebar.php:4
+msgid "Primary Sidebar"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/widget/sidebar.php:6
+msgid "Add widgets here to appear in your sidebar on blog posts and pages."
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/widget/sidebar.php:14
+msgid "Footer 1"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/widget/sidebar.php:16
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/widget/sidebar.php:26
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/widget/sidebar.php:36
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/widget/sidebar.php:46
+msgid "Add widgets here to appear in your footer."
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/widget/sidebar.php:24
+msgid "Footer 2"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/widget/sidebar.php:34
+msgid "Footer 3"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/functions/widget/sidebar.php:44
+msgid "Footer 4"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/sections/section-blog.php:84
+msgid "Read More"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/template-parts/page/content-page.php:34
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/template-parts/post/content-audio.php:59
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/template-parts/post/content-gallery.php:48
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/template-parts/post/content-image.php:35
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/template-parts/post/content-video.php:33
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/template-parts/post/content.php:32
+msgid "Pages:"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/template-parts/post/content-audio.php:55
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/template-parts/post/content-gallery.php:44
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/template-parts/post/content-image.php:31
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/template-parts/post/content-video.php:29
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/template-parts/post/content.php:28
+msgid "<span>Read More</span>"
+msgstr ""
+
+#: C:\xampp\htdocs\hotel-paradise\wp-content\themes\hotel-paradise/template-parts/post/content-none.php:17
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
